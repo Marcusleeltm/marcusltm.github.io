@@ -78,7 +78,7 @@ if (isset($_POST["submit"]))
 		echo 'Schedule created';
 		mysqli_stmt_close($stmt);
 		mysqli_close($dbc);	
-		echo '<br><br><a href="listshipment.php">Click here</a>';
+		echo '<br><br><a href="listschedule.php">Click here</a>';
 	}
 	else
 	{
