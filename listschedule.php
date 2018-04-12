@@ -20,7 +20,7 @@ include ('navbar.php');
 
 require_once('./mysqli_connect.php');
 
-$query = 'SELECT scheduleName, scheduleRoute, scheduleDeparture, scheduleArrival, spaceAvailability from warehouse';
+$query = 'SELECT scheduleName, scheduleRoute, scheduleDeparture, scheduleArrival, spaceAvailability from schedule';
 $response = mysqli_query($dbc, $query);
 
 if($response)
