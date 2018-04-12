@@ -1,0 +1,26 @@
+Maersk
+container company/shipping provider
+define 
+
+2 users
+i. ADMIN of the shipping provider
+- define schedule
+- register/create agents
+- View
+
+
+ii. AGENT
+
+AGENT login can see
+- register customer
+- register the type of goods they are going to send
+- book the schedule
+- after booking , receive confirmation
+
+reduce number of bays
+
+
+modeling diagram
+use case + use case descriptions
+sequence diagram
+class diagram
