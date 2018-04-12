@@ -49,7 +49,7 @@
 	<li> <a href = "listcustomer.php">CUSTOMER</a> </li>
 	<li> <a href = "listcargo.php">CARGO</a> </li>
 	<li> <a href = "listwarehouse.php">WAREHOUSE</a> </li>
-	<li> <a href = "schedule.php">SCHEDULE</a> </li>
+	<li> <a href = "listschedule.php">SCHEDULE</a> </li>
 	<li> <a href = "index.php">LOGOUT</a> </li>
 
 	</u1>
